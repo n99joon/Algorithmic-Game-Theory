@@ -1,4 +1,4 @@
 # Algorithmic-Game-Theory
 Link to my study on algorithmic game theory
 
-https://candied-column-384.notion.site/Twenty-Lectures-on-Algorithmic-Game-Theory-97203fa53d584256a2045502110296a1
+https://candied-column-384.notion.site/Game-Theory-1e9fa9cdd2134aec80ac825818ff0844
